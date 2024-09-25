@@ -1,0 +1,37 @@
+/* Estilo para la barra de búsqueda */
+.search-bar {
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Estilo para las cartas de productos */
+  .product-card {
+    box-shadow: 0 4px 8px rgba(229, 16, 16, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Estilo para las imágenes de productos */
+  .product-image {
+    object-fit: contain;
+    height: 200px;
+    padding: 10px;
+  }
+  
+  /* Descripción del producto */
+  .product-description {
+    font-size: 14px;
+    color: #21598b;
+  }
+  
+  /* Estilo para el botón Ver Más */
+  button {
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
